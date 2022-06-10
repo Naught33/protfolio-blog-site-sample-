@@ -1,0 +1,59 @@
+.header img{
+    height: 100px;
+    width: 100px;
+    align-content: center;
+    flex: content;
+    justify-content: center;
+
+
+}
+body{
+    height: 100%;
+    width: 100%;
+}
+.header{
+    background: black;
+    color: white;
+    text-align: center;
+    font-family: "Freestyle Script";
+    height: 30vh;
+}
+.carousel-item img{
+    height: 25%;
+    width: 45%;
+}
+
+.navs{
+    background: black;
+    padding: 25px;
+}
+.navs li{
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+    font-family: Century;
+    float: left;
+    padding-left: 10px;
+}
+li{
+    background: black;
+    padding: 25px;
+    font-size: medium;
+}
+
+
+.navs ul{
+    background: black;
+    padding: 50px;
+}
+.article h6{
+    padding-top: 45px;
+}
+.footer{
+    background: #3d494e;
+    padding: 70px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
